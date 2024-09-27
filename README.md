@@ -18,4 +18,7 @@ C++
 
 
 ## Screenshots
+![NodeMcu](https://github.com/user-attachments/assets/1ddc90c6-ff74-4ce3-9aae-2a7bad4753c0)
+
+![website](https://github.com/user-attachments/assets/05eb5eb6-3719-424f-9d98-b3984ebf7316)
 
