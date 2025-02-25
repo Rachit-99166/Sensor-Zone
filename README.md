@@ -15,7 +15,7 @@ C++
 1. Connect all hardware components, including wires, a breadboard, an LED bulb, a noise sensor, and the Node MCU.
 2. Install the Node MCU compiler and connect the Node MCU to your laptop using a USB cable.
 3. Integrate the website with the Node MCU, check connectivity, and ensure the bulb lights up as a noise indication.
-
+ 
 
 ## Screenshots
 ![NodeMcu](https://github.com/user-attachments/assets/1ddc90c6-ff74-4ce3-9aae-2a7bad4753c0)
