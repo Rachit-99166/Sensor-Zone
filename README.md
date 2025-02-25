@@ -4,7 +4,7 @@
 SensorZone is an innovative project designed to manage noise levels in libraries and labs by integrating hardware like Node MCU and sound sensors with software solutions, including C++ and a user-friendly web interface. This system allows users to monitor noise levels in real time, receive alerts, and take prompt action to maintain a peaceful environment, contributing to more conducive educational spaces.
 
 ## 🛠 Skills
-
+ 
 Node Mcu
 
 Html and Css
