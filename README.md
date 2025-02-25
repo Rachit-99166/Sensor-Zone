@@ -9,7 +9,7 @@ Node Mcu
 
 Html and Css
 
-C++ 
+C++  
 ## Deployment
 
 1. Connect all hardware components, including wires, a breadboard, an LED bulb, a noise sensor, and the Node MCU.
