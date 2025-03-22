@@ -8,7 +8,7 @@ const char* ssid = "RONYSLENNY 0279";
 const char* password = "10101010";
 
 ESP8266WebServer server(80);
-int variable = 0;
+int variable = 0; 
 
 void setup() {
   Serial.begin(9600);
