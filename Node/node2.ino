@@ -4,8 +4,8 @@ int led=D3;
 int ss=A0;      
 
 
-const char* ssid = "RONYSLENNY 0279";
-const char* password = "10101010";
+const char* ssid = "";
+const char* password = "";
 
 ESP8266WebServer server(80);
 int variable = 0; 
