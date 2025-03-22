@@ -24,7 +24,6 @@ void setup() {
   }
   Serial.println("Connected to WiFi");
 
-  // Initialize random seed
   randomSeed(analogRead(A0));
 
   // Start the web server
