@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 int led=D3;
-int ss=A0;     
+int ss=A0;      
 
 
 const char* ssid = "RONYSLENNY 0279";
